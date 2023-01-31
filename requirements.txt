@@ -1,6 +1,6 @@
 keras==2.9.0
-sklearn==1.0.2
+scikit-learn==1.0.2
 matplotlib==3.2.2
 numpy==1.21.6
-opencv==4.6.0
-tadm==4.64.1
+opencv-python==4.6.0.66
+tqdm==4.64.1
