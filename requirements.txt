@@ -1,0 +1,6 @@
+keras==2.9.0
+sklearn==1.0.2
+matplotlib==3.2.2
+numpy==1.21.6
+opencv==4.6.0
+tadm
